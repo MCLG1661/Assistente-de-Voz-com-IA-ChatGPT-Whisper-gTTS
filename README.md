@@ -133,7 +133,7 @@ Opções de Modelo Whisper :
 - OpenAI pelo Whisper e ChatGPT
 - Google pelo gTTS
 - Comunidade do Google Colab pela infraestrutura
-- Prof. Diego rena Bruno - Bootcamp GenAI DIO/Bradesco - Módulo : OS PILARES FORMAIS DA IA
+- Prof. Diego Renan Bruno - Bootcamp GenAI DIO/Bradesco - Módulo : OS PILARES FORMAIS DA IA
 
 ### Autor
 
