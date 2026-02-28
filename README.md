@@ -9,17 +9,6 @@
 
 Melhorar um assistente de voz interativo que combina o poder do reconhecimento de fala da OpenAI (Whisper) com a inteligência do ChatGPT e síntese de voz do Google (gTTS). O sistema permite uma conversa natural totalmente por voz, com uma interface amigável e diversas funcionalidades avançadas.
 
-### ✨ Melhorias Implementadas
-
-- Detecção de silêncio (VAD) - Gravação para automaticamente
-- Interface gráfica - Botões e campos de texto intuitivos
-- Cache inteligente - Respostas repetidas são instantâneas
-- Histórico de conversa - Mantém contexto das interações
-- Processamento em threads - Interface não trava
-- Normalização de áudio - Volume consistente nas respostas
-- Múltiplos modelos Whisper - Escolha entre precisão e velocidade
-- Tratamento de erros - Mensagens claras e recuperação
-
 ### Funcionalidades Principais
 
 - 🎤 **Gravação inteligente** com detecção automática de silêncio (VAD)
@@ -30,6 +19,17 @@ Melhorar um assistente de voz interativo que combina o poder do reconhecimento d
 - 📜 **Histórico de conversa** mantendo contexto
 - 🎛️ **Interface gráfica** com ipywidgets
 - ⚡ **Processamento paralelo** sem travar a interface
+
+### ### ✨ Melhorias Implementadas
+
+- Detecção de silêncio (VAD) - Gravação para automaticamente
+- Interface gráfica - Botões e campos de texto intuitivos
+- Cache inteligente - Respostas repetidas são instantâneas
+- Histórico de conversa - Mantém contexto das interações
+- Processamento em threads - Interface não trava
+- Normalização de áudio - Volume consistente nas respostas
+- Múltiplos modelos Whisper - Escolha entre precisão e velocidade
+- Tratamento de erros - Mensagens claras e recuperação 
 
 ### Pré-requisitos
 
