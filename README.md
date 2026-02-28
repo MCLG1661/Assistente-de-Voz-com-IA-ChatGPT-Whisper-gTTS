@@ -3,7 +3,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rHGq5N-sbEGtZsNUiQFT8q60BhRbj99b?usp=sharing)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-Whisper%20%7C%20GPT--3.5-green)
-![License](https://img.shields.io/badge/license-MIT-orange)
 
 ## 📋 Sobre o Projeto
 
